@@ -3,7 +3,7 @@
 Desenvolvedor apaixonado por criar aplicações web modernas, API's e IA's. Trabalho com **Typescript**, **JavaScript**, **React**, **Node.js**, **Python**, **MySQL** e **REST API**.
 
 ## 🚀 Meus Projetos em Destaque
-- **[Classificaçaõ de Imagens](https://github.com/Gush4M/Classificacao-de-Imagens-MPEG7-Modificado)**: Um modelo de classificação de imagens aplicado no dataset MPEG7 Modificado.
+- **[Classificação de Imagens](https://github.com/Gush4M/Classificacao-de-Imagens-MPEG7-Modificado)**: Um modelo de classificação de imagens aplicado no dataset MPEG7 Modificado.
 - **[Mini Game em C](https://github.com/Gush4M/Projeto-Estruturas)**: Um jogo de tabuleiro feito na linguagem C.
 
 ## 🛠️ Tecnologias
