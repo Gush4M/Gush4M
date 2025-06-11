@@ -19,7 +19,7 @@ Desenvolvedor apaixonado por criar aplicações web modernas, API's e IA's. Trab
 
 
 ## 📊 Minhas Estatísticas
-![Gush4M's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gush4M&show_icons=true&theme=radical)
+![Gush4M's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gush4M&show_icons=true&theme=synthwave)
 
 ## 📫 Entre em Contato
 - [LinkedIn](https://www.linkedin.com/in/gustavo-reis72/)
