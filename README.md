@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Gustavo Reis!
 
-Desenvolvedor apaixonado por criar aplicações web modernas, API's e IA's. Trabalho com **Typescript**, **JavaScript**, **React**, **Node.js**, **Python**, **MySQL** e **REST API**.
+Desenvolvedor apaixonado por criar aplicações web modernas, API's e IA's. Trabalho com **Typescript**, **JavaScript**, **React**, **Node.js**, **Python**, **MySQL**, **REST API**, **Docker** e **JIRA**.
 
 ## 🚀 Meus Projetos em Destaque
 - **[Classificação de Imagens](https://github.com/Gush4M/Classificacao-de-Imagens-MPEG7-Modificado)**: Um modelo de classificação de imagens aplicado no dataset MPEG7 Modificado.
@@ -14,6 +14,9 @@ Desenvolvedor apaixonado por criar aplicações web modernas, API's e IA's. Trab
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=rest&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![JIRA](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+
 
 ## 📊 Minhas Estatísticas
 ![Gush4M's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gush4M&show_icons=true&theme=radical)
